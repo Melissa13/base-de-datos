@@ -1,1 +1,22 @@
 C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\localDatabaseApp\localDatabaseApp\bin\Debug\localDatabaseApp.exe.config
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\localDatabaseApp\localDatabaseApp\bin\Debug\students.mdf
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\localDatabaseApp\localDatabaseApp\bin\Debug\students_log.ldf
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\localDatabaseApp\localDatabaseApp\bin\Debug\localDatabaseApp.exe
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\localDatabaseApp\localDatabaseApp\bin\Debug\localDatabaseApp.pdb
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\localDatabaseApp\localDatabaseApp\obj\Debug\localDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\localDatabaseApp\localDatabaseApp\obj\Debug\localDatabaseApp.Form1.resources
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\localDatabaseApp\localDatabaseApp\obj\Debug\localDatabaseApp.Properties.Resources.resources
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\localDatabaseApp\localDatabaseApp\obj\Debug\localDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\localDatabaseApp\localDatabaseApp\obj\Debug\localDatabaseApp.exe
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\localDatabaseApp\localDatabaseApp\obj\Debug\localDatabaseApp.pdb
+C:\Users\Melisa\Desktop\localDatabaseApp\localDatabaseApp\bin\Debug\localDatabaseApp.exe.config
+C:\Users\Melisa\Desktop\localDatabaseApp\localDatabaseApp\obj\Debug\localDatabaseApp.exe
+C:\Users\Melisa\Desktop\localDatabaseApp\localDatabaseApp\obj\Debug\localDatabaseApp.pdb
+C:\Users\Melisa\Desktop\localDatabaseApp\localDatabaseApp\bin\Debug\students.mdf
+C:\Users\Melisa\Desktop\localDatabaseApp\localDatabaseApp\bin\Debug\students_log.ldf
+C:\Users\Melisa\Desktop\localDatabaseApp\localDatabaseApp\bin\Debug\localDatabaseApp.exe
+C:\Users\Melisa\Desktop\localDatabaseApp\localDatabaseApp\bin\Debug\localDatabaseApp.pdb
+C:\Users\Melisa\Desktop\localDatabaseApp\localDatabaseApp\obj\Debug\localDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\Melisa\Desktop\localDatabaseApp\localDatabaseApp\obj\Debug\localDatabaseApp.Form1.resources
+C:\Users\Melisa\Desktop\localDatabaseApp\localDatabaseApp\obj\Debug\localDatabaseApp.Properties.Resources.resources
+C:\Users\Melisa\Desktop\localDatabaseApp\localDatabaseApp\obj\Debug\localDatabaseApp.csproj.GenerateResource.Cache
